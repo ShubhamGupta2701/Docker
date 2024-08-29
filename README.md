@@ -1,5 +1,3 @@
-- This is the starting of learning Docker.  29-August
+- This is the starting of learning Docker.
 
 # Docker 
-
-- 
