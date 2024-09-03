@@ -20,7 +20,7 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 - These containers are issolated from each other. 
 
 # Difference between Docker and VM's (Virtual Machine's)
-![Difference Between Docker and Virtual Machine's](Diff_Docker_VM.png)
+![Difference Between Docker and Virtual Machine's](misc/Diff_Docker_VM.png)
 
 
 ## Main components of Docker
@@ -28,3 +28,5 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 - Docker Image
 - Docker Container
 - Docker Registry
+
+![Chart](misc/Docker_file-Image.png.png)
