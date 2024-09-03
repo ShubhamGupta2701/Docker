@@ -14,4 +14,4 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 - It can be easily shared.
 - This makes development and deployment efficient.
 
-![Docker Architecture](image.png)
+![Docker Architecture](misc/image.png)
