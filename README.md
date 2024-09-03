@@ -13,3 +13,5 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 - It's a way to package an application with all the necessary dependencies and configurations.
 - It can be easily shared.
 - This makes development and deployment efficient.
+
+![Docker Architecture](image.png)
