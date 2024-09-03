@@ -27,6 +27,6 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 - Docker File -> `Simple text file to write all the configurations/ instructions to build the image and use to build the docker image with the help of docker Engine`
 - Docker Image -> `Single file with all the dependencies and libraries to run the project/ program`
 - Docker Container -> `Process/ Instance with all necessary dependencies and libraries`
-- Docker Registry -> 
+- Docker Registry -> `It's a central repo for storing and distributing Docker Images.`
 
 ![Chart](misc/Docker_file-Image.png)
