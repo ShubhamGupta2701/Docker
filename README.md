@@ -8,3 +8,8 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 - i.e. Development, testing, deploying etc.
 - Docker let us the ability to run an application in an isolated enviroment known as a container.
 - It makes deployment and development efficient.
+
+`What is a Container ?`
+- It's a way to package an application with all the necessary dependencies and configurations.
+- It can be easily shared.
+- This makes development and deployment efficient.
