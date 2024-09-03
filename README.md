@@ -17,4 +17,6 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 # Architecture
 - Here C1, C2, C3 are container 1, 2, 3 respectively.
 - These containers are issolated from each other. 
-![Docker Architecture](misc/image.png)
+![Docker Architecture](misc/Architecture.png)
+
+![Difference Between Docker and Virtual Machine's](Diff_Docker_VM.png)
