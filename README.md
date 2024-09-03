@@ -30,3 +30,8 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 - Docker Registry -> `It's a central repo for storing and distributing Docker Images.`
 
 ![Chart](misc/Docker_file-Image.png)
+
+
+## Commands for Docker
+- docker -v `To check the docker version`
+- docker ps `To check the list of docker containers, images and other info` 
