@@ -33,5 +33,5 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 
 
 ## Commands for Docker
-- docker -v `To check the docker version`
-- docker ps `To check the list of docker containers, images and other info` 
+- To check the docker version `docker -v`
+- To check the list of docker containers, images and other info `docker ps`
