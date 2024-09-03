@@ -15,5 +15,6 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 - This makes development and deployment efficient.
 
 # Architecture
-- Here C1, C2, C3 are container 1, 2, 3 respectively
+- Here C1, C2, C3 are container 1, 2, 3 respectively.
+- These containers are issolated from each other. 
 ![Docker Architecture](misc/image.png)
