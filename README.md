@@ -21,3 +21,10 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 
 # Difference between Docker and VM's (Virtual Machine's)
 ![Difference Between Docker and Virtual Machine's](Diff_Docker_VM.png)
+
+
+## Main components of Docker
+- Docker File
+- Docker Image
+- Docker Container
+- Docker Registry
