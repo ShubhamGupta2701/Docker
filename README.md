@@ -14,4 +14,6 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 - It can be easily shared.
 - This makes development and deployment efficient.
 
+# Architecture
+- Here C1, C2, C3 are container 1, 2, 3 respectively
 ![Docker Architecture](misc/image.png)
