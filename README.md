@@ -29,4 +29,4 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 - Docker Container
 - Docker Registry
 
-![Chart](misc/Docker_file-Image.png.png)
+![Chart](misc/Docker_file-Image.png)
