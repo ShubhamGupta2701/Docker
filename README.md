@@ -1,6 +1,6 @@
 Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z1Dj7M-k-PuKDNJkRul&index=6 `
 
-# Docker 
+# Docker - `Docker is not the only way to create a Container but it's the most popular one`
 
 `what is a Docker ?`
 - Docker is a containerization platform for developing, packaging, shiping and running application 
