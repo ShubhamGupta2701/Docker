@@ -39,8 +39,10 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 - To run the image we need imageID i.e. creating a container `docker run _imageID_`
 
 ## Docker File Format
+```
 - FROM _BASE_IMAGE_
 - WORKDIR /WORKING DIRECTORY
-- COPY . . `Its for copy current directory data inside our image`
-- RUN npm i   `This commands installs all the necessary packages to run our proj.`
-- CMD ['npm run','dev'] `CMD ["Executable","Command"]`
+- COPY . .  -> Its for copy current directory data inside our image
+- RUN npm i   -> This commands installs all the necessary packages to run our proj.
+- CMD ['npm run','dev']  -> CMD ["Executable","Command"]
+```
