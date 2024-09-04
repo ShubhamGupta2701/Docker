@@ -39,7 +39,7 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 - To run the image we need imageID i.e. creating a container `docker run _imageID_` this only run image in container
 - To run the image on machine
 ```
-docker image -p port:port _imageID_
+docker run -p port:port _imageID_
 ```
 
 ## Docker File Format
