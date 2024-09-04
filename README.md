@@ -60,3 +60,4 @@ docker run -p port:port _imageID_
 - copy name of the container which you want to stop
 - docker stop _container_name_
 ```
+
