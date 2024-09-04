@@ -34,9 +34,13 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 
 ## Commands for Docker
 - To check the docker version `docker -v`
-- To check the list of docker containers, images and other info `docker ps`
+- To check the list of runnig docker containers process status `docker ps`
 - To check the list of docker images  `docker image ls`
-- To run the image we need imageID i.e. creating a container `docker run _imageID_`
+- To run the image we need imageID i.e. creating a container `docker run _imageID_` this only run image in container
+- To run the image on machine
+```
+docker image -p port:port _imageID_
+```
 
 ## Docker File Format
 ```
