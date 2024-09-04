@@ -49,5 +49,14 @@ docker run -p port:port _imageID_
 - WORKDIR /WORKING DIRECTORY
 - COPY . .  -> Its for copy current directory data inside our image
 - RUN npm i   -> This commands installs all the necessary packages to run our proj.
-- CMD ['npm run','dev']  -> CMD ["Executable","Command"]
+- CMD ['npm','start']  -> CMD ["Executable","Command"]
+```
+
+## How to stop a container
+```
+- open a new terminal
+- go to project directory
+- docker ps
+- copy name of the container which you want to stop
+- docker stop _container_name_
 ```
