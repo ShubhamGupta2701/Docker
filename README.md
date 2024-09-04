@@ -40,9 +40,9 @@ Video link : ` https://www.youtube.com/watch?v=OhnTMWmfTBE&list=PL0tP8lerTbX1m-Z
 - To run the image we need imageID i.e. creating a container `docker run _imageID_` this only run image in container
 - To run the image on machine
 ```
-docker run -p port:port _imageID_   -> to run run container on local machine
+docker run -p l_port:c_port _imageID_   -> to run run container on local machine
                 OR
-docker run -d -p port:port _imageID_    -> to run container in detached mode on local machine
+docker run -d -p l_port:c_port _imageID_    -> to run container in detached mode on local machine
 ```
 
 ## Docker File Format
