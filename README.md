@@ -45,6 +45,12 @@ docker run -p l_port:c_port _imageID_   -> to run run container on local machine
                 OR
 docker run -d -p l_port:c_port _imageID_    -> to run container in detached mode on local machine
 ```
+- To delete an image `docker rmi -f _imageID_`
+- To remove container automatically 
+```
+docker run -d --rm -p port:port _imageID_
+``` 
+- To stop a docker container `docker stop _container_name_`
 
 ## Docker File Format
 ```
