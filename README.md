@@ -35,7 +35,7 @@
 - To check the list of runnig docker containers process status `docker ps`
 - To check the list of all the containers process status `docker ps -a`
 - To create an image from docker file `docker build .`
-- To create an image from docker file with tag and name `docker build -t _name_ .`
+- To create an image from docker file with tag and name `docker build -t _name_:version .`
 - To check the list of docker images  `docker image ls`
 - To run the image we need imageID i.e. creating a container `docker run _imageID_` this only run image in container
 - To run the image on machine
@@ -47,6 +47,8 @@ docker run -d -p l_port:c_port _imageID_    -> to run container in detached mode
 - To give name to container manually
 ```
 docker run -d --rm --name "_name_" -p port:port _imageID_
+                            or 
+docker run -d --rm --name "_name_" -p port:port _imageName_
 ```
 - To delete an image `docker rmi -f _imageID_`
 - To remove container automatically 
