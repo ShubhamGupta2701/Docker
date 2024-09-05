@@ -44,7 +44,7 @@ docker run -p l_port:c_port _imageID_   -> to run run container on local machine
                 OR
 docker run -d -p l_port:c_port _imageID_    -> to run container in detached mode on local machine
 ```
-- To give name to container manually 
+- To give name to container manually
 ```
 docker run -d --rm --name "_name_" -p port:port _imageID_
 ```
