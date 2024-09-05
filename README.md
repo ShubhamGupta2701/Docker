@@ -81,3 +81,11 @@ docker run -d --rm -p port:port _imageID_
 ```
 docker pull _image_name_
 ```
+
+## docker Interactive terminal command to run 
+- To run docker with interactive terminal for small programms i.e. python scripts
+```
+docker run -it _imageID_
+            or
+docker run -it _imageName_ 
+```
