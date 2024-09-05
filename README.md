@@ -75,3 +75,9 @@ docker run -d --rm -p port:port _imageID_
 - docker stop _container_name_
 ```
 
+## Docker pull
+- We can directly pull images from docker hub and use it 
+- to do it 
+```
+docker pull _image_name_
+```
