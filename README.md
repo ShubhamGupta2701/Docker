@@ -89,3 +89,12 @@ docker run -it _imageID_
             or
 docker run -it _imageName_ 
 ```
+
+
+## Docker Repositry
+- create a repo using docker hub
+- Use Command `docker login` to login to your docker ID
+- we should have a image with the given name which we set upon creating our repo
+- if not we can build a new image with desired name `docker build -t desired_name:version .`
+- now push your image to your repo using `docker push`
+- we can also rename our image using tag `docker tag orignal_name new_name`
